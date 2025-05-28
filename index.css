@@ -20,7 +20,7 @@ body {
   }
   
   .container-logo {
-      --size: 700px;
+      --size: 400px;
     width: var(--size);
     height: var(--size);
     clip-path: inset(0);
