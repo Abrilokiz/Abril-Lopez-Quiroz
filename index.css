@@ -28,7 +28,7 @@ body {
   }
   
   .logo {
-    width: 200%;
+    width: 100%;
     transform: translate(0, 6%) rotate(-7deg);
     position: absolute;
   }
