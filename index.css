@@ -1,0 +1,30 @@
+body {
+    --bgcolor:#171717;
+    background-color: var(--bgcolor);}
+
+    .container{
+        display: grid;
+        place-items: center;
+
+        margin-top: 8em;
+        gap:1rem;
+
+        & span{
+            font-family: Lexend,sans-serif;
+            font-size: 2rem;
+            color:aliceblue
+        }
+    }
+
+    .container-logo{
+
+
+        & img {
+            --size:400px;
+
+            width: var(--size);
+            height: var(--size);
+        }
+
+
+    }
