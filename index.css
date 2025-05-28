@@ -22,7 +22,7 @@ body {
         & img {
             --size:400px;
 
-            width: var(--size);
+            width: 500px
             height: var(--size);
         }
 
