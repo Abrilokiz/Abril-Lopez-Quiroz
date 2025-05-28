@@ -20,7 +20,7 @@ body {
   }
   
   .container-logo {
-    --size: 256px;
+    --size: 700px;
     
     width: var(--size);
     height: var(--size);
